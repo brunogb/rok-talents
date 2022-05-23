@@ -283,9 +283,9 @@
     "blue": "Support",
     "guides": { "rokguide": "https://rok.guide/commanders/joan-of-arc/" }
   },
-  "Scipio Africanus": {
+  "Scipio Africanus Epic": {
     "id": "31",
-    "shortName": "Scipio",
+    "shortName": "Scipio Africanus",
     "title": "Blades of Warfare",
     "tier": "Epic",
     "red": "Leadership",
@@ -570,6 +570,28 @@
     "red": "Cavalry",
     "yellow": "Conquering",
     "blue": "Skill",
+    "guides": {
+      "rokguide": "https://rok.guide/xiang-yu/"
+    }
+  },
+  "Honda Tadakatsu": {
+    "id": "57",
+    "title": "The Deer of Tokugawa",
+    "tier": "Legendary",
+    "red": "Leadership",
+    "yellow": "Versatility",
+    "blue": "Skill",
+    "guides": {
+      "rokguide": "https://rok.guide/xiang-yu/"
+    }
+  },
+  "Scipio Africanus": {
+    "id": "57",
+    "title": "Hero of Zama",
+    "tier": "Legendary",
+    "red": "Infantry",
+    "yellow": "Versatility",
+    "blue": "Support",
     "guides": {
       "rokguide": "https://rok.guide/xiang-yu/"
     }
