@@ -293,8 +293,9 @@
     "blue": "Attack",
     "guides": { "rokguide": "https://rok.guide/commanders/scipio-africanus/" }
   },
-  "Boudica": {
+  "Boudica Elite": {
     "id": "32",
+    "shortName": "Boudica",
     "title": "Celtic Rose",
     "tier": "Epic",
     "red": "Integration",
@@ -591,6 +592,28 @@
     "tier": "Legendary",
     "red": "Infantry",
     "yellow": "Versatility",
+    "blue": "Support",
+    "guides": {
+      "rokguide": "https://rok.guide/xiang-yu/"
+    }
+  },
+  "Boudica": {
+    "id": "60",
+    "title": "Queen of the iceni",
+    "tier": "Legendary",
+    "red": "Archer",
+    "yellow": "Versatility",
+    "blue": "Skill",
+    "guides": {
+      "rokguide": "https://rok.guide/xiang-yu/"
+    }
+  },
+  "Henry V": {
+    "id": "61",
+    "title": "Lancastrian King",
+    "tier": "Legendary",
+    "red": "Archer",
+    "yellow": "Conquering",
     "blue": "Support",
     "guides": {
       "rokguide": "https://rok.guide/xiang-yu/"
