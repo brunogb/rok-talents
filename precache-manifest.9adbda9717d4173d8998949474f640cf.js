@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58f9f4a92522ab5987e971381dcb7b37",
+    "revision": "2787eb7fdd55f10efd0b250fca364fce",
     "url": "/rok-talents/index.html"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rok-talents/static/css/8.30d2aecf.chunk.css"
   },
   {
-    "revision": "22c3ade447714e6329d2",
+    "revision": "f64b46dde0a4d4d1d9bf",
     "url": "/rok-talents/static/css/main.4e1a70d3.chunk.css"
   },
   {
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rok-talents/static/js/8.1b0ebd9c.chunk.js"
   },
   {
-    "revision": "22c3ade447714e6329d2",
-    "url": "/rok-talents/static/js/main.8668c835.chunk.js"
+    "revision": "f64b46dde0a4d4d1d9bf",
+    "url": "/rok-talents/static/js/main.4ec3e8a0.chunk.js"
   },
   {
     "revision": "4f8adb9171340bab44b7",
